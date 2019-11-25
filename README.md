@@ -1,6 +1,6 @@
 # simple-SQL-questions
 
-1. In simple sql 1, you will use SQL to store and query a database. You will use SQLiteas the DBMS. You will learn the following:
+1. In simple sql 1, you will use SQL to store and query a database. You will use SQLite as the DBMS. You will learn the following:
 - How to create database
 - How to create a table
 - How to change a table after creation
