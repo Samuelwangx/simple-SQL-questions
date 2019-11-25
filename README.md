@@ -8,3 +8,10 @@
 - How to select certain rows or columns from a table
 - How to join two tables together
 - How to use expressions
+
+2. In simple sql 2, you will use SQL to store and query a database. You will practice the following:
+- How to use patterns to find matching information
+- How to use Order By to sort data
+- How to use Set Operators to union/intersect multiple tables
+- How to use Join Operator to join multiple tables
+
